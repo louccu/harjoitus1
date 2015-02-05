@@ -10,3 +10,7 @@ Uusi file, tiedosto2.txt
 
 Harjoitus 3:
 Matti ja Teppo luotu - Matin README.md
+
+
+Harjoitus 4:
+Matin muutos
