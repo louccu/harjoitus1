@@ -6,3 +6,7 @@ Tehty uusi tiedosto, tiedosto.txt, klo 18:38
 
 Harjoitus 2:
 Uusi file, tiedosto2.txt
+
+
+Harjoitus 3:
+Matti ja Teppo luotu - Matin README.md
